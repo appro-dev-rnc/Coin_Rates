@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coin Rates</string>
+
+    <string name="api_key">b5744d3b215da17786831321a490566b</string>
+</resources>
